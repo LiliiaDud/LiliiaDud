@@ -10,7 +10,7 @@ I am currently completing my studies at GoIT IT School, where I am taking a Fron
 ------------------------------------------------------------------ 
 
 
- ### Languages and Tools:
+ ### 🔧 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,14 +46,46 @@ Bookstore is a team project: a responsive online bookstore built using HTML5, CS
 My contribution:
 Created the Location section. Implemented scroll-based animations so that sections appear gradually as the user navigates through the page.
  Live: <a href="https://github.com/LiliiaDud/project-JS-team6-bookhub">Team Project «Bookstore»</a>
+ 
+
+ ⭐ NoteHub project  —  Project created on NextJS with registration and authorization features.
+| ----------------- | 
+Role: Developer.
+NoteHub is a simple and efficient application designed for managing personal notes. It helps keep your thoughts organized and accessible in one place, whether you are at home or on the go.
+Custom Project.
+ Live: <a href="https://09-auth-nine-dusky.vercel.app/">Custom Project «NoteHub»</a>
+  
+------------------------------------------------------------------ 
+
+ ### 🗣️ Languages
+
+![English](https://img.shields.io/badge/English-Intermediate-blue?style=flat-square)
+![Swedish](https://img.shields.io/badge/Swedish-Elementary-yellow?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-blue?style=flat-square)
+ 
+------------------------------------------------------------------ 
+
+### 💡 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
 ------------------------------------------------------------------ 
 
 
+### 📈 Currently Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-556B2F?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+------------------------------------------------------------------ 
+
  ### 📫 Contact Me 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/liliia-dudnyk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lilydalas88@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liliia-dudnyk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lilydalas88@gmail.com)
 
+------------------------------------------------------------------ 
 
-
+⭐️ **Thanks for visiting!** Feel free to reach out if you have any questions or collaboration ideas! 🚀 
 
