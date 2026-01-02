@@ -75,7 +75,7 @@ Custom Project.
 
 ### 📈 Currently Learning
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-556B2F?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ------------------------------------------------------------------ 
