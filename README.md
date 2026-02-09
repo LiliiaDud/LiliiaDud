@@ -3,8 +3,7 @@
 
 
 
-**Junior Front-End Developer** with experience in JavaScript, React, Next.js. 
-I am currently completing my studies at GoIT IT School, where I am taking a Frontend Development course that is providing me with fundamental knowledge and best practices in modern web development. During my studies, I have worked with tools and frameworks such as HTML, CSS, SASS, Git, JavaScript, TypeScript, React, and Next.js, and have used them to create and deploy web projects.
+**FullStack Developer** with experience in JavaScript, React, Next.js, Node.js. My goal is to continuously improve my skills and create valuable digital products. I am inspired by working on new projects and exploring the latest advancements to achieve better results and success in every project.
 
 
 ------------------------------------------------------------------ 
@@ -20,8 +19,20 @@ I am currently completing my studies at GoIT IT School, where I am taking a Fron
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Context API](https://img.shields.io/badge/-Context%20API-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 
 
@@ -75,7 +86,7 @@ Custom Project.
 ### 📈 Currently Learning
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nest.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ------------------------------------------------------------------ 
 
